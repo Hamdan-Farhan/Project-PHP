@@ -1,0 +1,8 @@
+
+Name Database: student1
+-------------------------
+Name Table: student
+-------------------------
+id
+name
+address
